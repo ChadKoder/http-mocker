@@ -1,0 +1,15 @@
+{
+  "name": "http-mocker",
+  "version": "1.0.0",
+  "description": "nodeJS app to mock http requests/responses",
+  "main": "http-mocker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Keibler",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.13.3"
+  }
+}
